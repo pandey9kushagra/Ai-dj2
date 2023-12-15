@@ -1,0 +1,55 @@
+body{
+
+    background-size: cover;
+}
+
+.heading{
+
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+
+#note{
+
+    font-size: 20px;
+}
+
+.divspeed{
+
+    float: left;
+   
+}
+
+.divvolume{
+
+    float: right;
+  
+}
+
+.diskimg{
+
+    width: 200px;
+    height: 200px;
+}
+
+h2{
+
+    font-size: 20px !important;
+
+
+}
+
+button{
+
+    font-size: 23px !important;
+    width: 150px;
+
+}
+
+canvas{
+
+    background-color: aqua;
+    border: 8px ridge rgb(207, 120, 120);
+    border-radius: 20px;
+}
